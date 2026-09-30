@@ -133,6 +133,11 @@ h6 {
     color: var(--aad-text-strong) !important;
 }
 
+.text-foreground,
+[class~="text-foreground"] {
+    color: var(--aad-text) !important;
+}
+
 :is(
     .text-black,
     .text-gray-950,
