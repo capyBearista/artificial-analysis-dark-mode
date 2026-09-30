@@ -14,7 +14,6 @@
 // @run-at       document-start
 // @grant        GM_addStyle
 // ==/UserScript==
-
 (() => {
     "use strict";
 
