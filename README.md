@@ -1,10 +1,14 @@
 # Artificial Analysis Dark Mode
 
 A dark mode userscript for [Artificial Analysis](https://artificialanalysis.ai/) that improves page, chart, table, and dropdown contrast while preserving provider colors and the site's existing layout.
-
-<p align="center">
-  <a href="SCREENSHOT_URL_HERE">Screenshot placeholder</a>
-</p>
+<table>
+  <tr>
+    <td width="20%" align="center"><img src="https://github.com/capyBearista/artificial-analysis-dark-mode/blob/main/home.png" alt="OpenCode Quota TUI sidebar panel" /><br /><strong>Home page</strong></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><img src="https://github.com/capyBearista/artificial-analysis-dark-mode/blob/main/model-page.png" alt="Artificial Analysis Model page" /><br /><strong>Model page</strong></td>
+  </tr>
+</table>
 
 ## Features
 
