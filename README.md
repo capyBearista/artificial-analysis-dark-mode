@@ -3,10 +3,10 @@
 A dark mode userscript for [Artificial Analysis](https://artificialanalysis.ai/) that improves page, chart, table, and dropdown contrast while preserving provider colors and the site's existing layout.
 <table>
   <tr>
-    <td width="20%" align="center"><img src="https://github.com/capyBearista/artificial-analysis-dark-mode/blob/main/home.png" alt="Artificial Analysis home page in dark mode" /><br /><strong>Home page</strong></td>
+    <td align="center"><img src="https://github.com/capyBearista/artificial-analysis-dark-mode/blob/main/home.png" alt="Artificial Analysis home page in dark mode" /><br /><strong>Home page</strong></td>
   </tr>
   <tr>
-    <td width="20%" align="center"><img src="https://github.com/capyBearista/artificial-analysis-dark-mode/blob/main/model-page.png" alt="Artificial Analysis model page in dark mode" /><br /><strong>Model page</strong></td>
+    <td align="center"><img src="https://github.com/capyBearista/artificial-analysis-dark-mode/blob/main/model-page.png" alt="Artificial Analysis model page in dark mode" /><br /><strong>Model page</strong></td>
   </tr>
 </table>
 
