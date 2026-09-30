@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name         Artificial Analysis Dark Mode
 // @namespace    https://github.com/capyBearista/artificial-analysis-dark-mode
+// @version      1.0.0
 // @description  Dark theme for Artificial Analysis.
 // @author       capyBearista
 // @license      MIT
 // @homepageURL  https://github.com/capyBearista/artificial-analysis-dark-mode
 // @supportURL   https://github.com/capyBearista/artificial-analysis-dark-mode/issues
+// @updateURL    https://raw.githubusercontent.com/capyBearista/artificial-analysis-dark-mode/main/artificial-analysis-dark-mode.user.js
+// @downloadURL  https://raw.githubusercontent.com/capyBearista/artificial-analysis-dark-mode/main/artificial-analysis-dark-mode.user.js
 // @match        https://artificialanalysis.ai/*
 // @match        https://www.artificialanalysis.ai/*
 // @run-at       document-start
